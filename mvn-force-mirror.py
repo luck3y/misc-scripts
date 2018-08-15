@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #
 # example usage: python mvn-force-mirror.py org/jboss/galleon/galleon-core/1.0.0.Alpha5/
 #
